@@ -1,7 +1,7 @@
 
-##### CÁLCULO DE DESCONTOS #####
+##### PORCENTAGEM - CÁLCULO DE DESCONTOS #####
 
-""" CURSO EM VÍDEO - EXERCÍCIO PYTHON 11:
+""" CURSO EM VÍDEO - EXERCÍCIO PYTHON 12:
 
 Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, 
 com 5% de desconto.
