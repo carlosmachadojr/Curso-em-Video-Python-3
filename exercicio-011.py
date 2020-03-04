@@ -1,5 +1,5 @@
 
-##### CONVERSOR DE MOEDAS #####
+##### LARGURA, ALTURA E ÁREA #####
 
 """ CURSO EM VÍDEO - EXERCÍCIO PYTHON 11:
 
